@@ -1,0 +1,7 @@
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Application\bin\Debug\ProjetoTesteFortes.Application.dll
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Application\bin\Debug\ProjetoTesteFortes.Application.pdb
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Application\bin\Debug\ProjetoTesteFortes.Domain.dll
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Application\bin\Debug\ProjetoTesteFortes.Domain.pdb
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Application\obj\Debug\ProjetoTesteFortes.Application.csprojResolveAssemblyReference.cache
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Application\obj\Debug\ProjetoTesteFortes.Application.dll
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Application\obj\Debug\ProjetoTesteFortes.Application.pdb

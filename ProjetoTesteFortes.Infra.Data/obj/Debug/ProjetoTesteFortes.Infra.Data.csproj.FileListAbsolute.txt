@@ -1,0 +1,12 @@
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\bin\Debug\ProjetoTesteFortes.Infra.Data.dll.config
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\bin\Debug\ProjetoTesteFortes.Infra.Data.dll
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\bin\Debug\ProjetoTesteFortes.Infra.Data.pdb
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\bin\Debug\ProjetoTesteFortes.Domain.dll
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\bin\Debug\ProjetoTesteFortes.Domain.pdb
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\obj\Debug\ProjetoTesteFortes.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\obj\Debug\ProjetoTesteFortes.Infra.Data.dll
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Infra.Data\obj\Debug\ProjetoTesteFortes.Infra.Data.pdb

@@ -1,0 +1,50 @@
+﻿@model ProjetoTesteFortesMVC.ViewModels.PedidoViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PedidoViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DataPedido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataPedido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QtdProdutos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QtdProdutos)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ValorTotalPedido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ValorTotalPedido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdutoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdutoId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PedidoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,4 @@
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Domain\bin\Debug\ProjetoTesteFortes.Domain.dll
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Domain\bin\Debug\ProjetoTesteFortes.Domain.pdb
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Domain\obj\Debug\ProjetoTesteFortes.Domain.dll
+C:\Users\Marci\OneDrive\Documentos\Visual Studio 2015\Projects\ProjetoTesteFortes\ProjetoTesteFortes.Domain\obj\Debug\ProjetoTesteFortes.Domain.pdb
